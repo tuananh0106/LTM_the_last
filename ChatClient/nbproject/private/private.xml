@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/model/DTO/MessageBox.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/model/Client.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/controller/LoginRequester.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/controller/AddFriendRequester.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/controller/ControllerNavigator.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/controller/FrameController.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/app/CONFIG.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/view/RegisterDialog.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/controller/MainFrameManager.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/view/LoginFrame.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/view/MainFrame.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/service/UDPService.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/view/AddFriendFrame.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/controller/ServerConnector.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/controller/NewGroupRequester.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/controller/RegistrationRequester.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/service/TCPService.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/app/ClientApp.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/model/DTO/MessageAddress.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/model/DTO/User.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/view/NewGroupFrame.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/model/DTO/MessageRepository.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/view/ConnectToServerFrame.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatClient/src/controller/InteractiveThread.java</file>
+        </group>
+    </open-files>
+</project-private>

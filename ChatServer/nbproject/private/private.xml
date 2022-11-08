@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/view/ServerMainFrame.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/app/CONFIG.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/app/ServerApp.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/service/TCPService.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/model/DTO/Group.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/model/DTO/User.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/controller/ClientListener.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/model/DTO/MessageAddress.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/dao/BaseDAO.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/service/MessageBoxService.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/controller/UserThread.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/dao/MessageAddressDAO.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/service/MessageService.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/service/GroupService.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/dao/MessageDAO.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/controller/MainServerController.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/model/DTO/Message.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/model/DTO/MessageBox.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/dao/MessageBoxDAO.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/model/Client.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/dao/GroupDAO.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/service/UDPService.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/controller/ServerRunner.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/dao/UserDAO.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/service/UserService.java</file>
+            <file>file:/E:/school/ltm/assignment/ChatServer/src/model/DTO/MessageRepository.java</file>
+        </group>
+    </open-files>
+</project-private>
